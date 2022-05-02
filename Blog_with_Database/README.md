@@ -1,0 +1,1 @@
+  This project had the outside layout created but the challenges were to write the functions. I followed through the lesson and built the functions to publish and post on the blog website while saving the posts to the database. This challenge pushed me to be more familar with Express.js and the mongoDB database. 
